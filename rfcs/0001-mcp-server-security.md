@@ -1,4 +1,4 @@
-# RFC 0001: MCP Server Security Hardening
+# RFC XXXX: MCP Server Security Hardening
 
 **Status:** Draft  
 **Authors:** Open for community contributions  
